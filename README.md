@@ -1,3 +1,5 @@
+[![MasterHead](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_960_720.jpg)](https://www.github.com/TNasifTech)
+
 Hi 👋 My name is Tahmid Nasif
 =============================
 
@@ -6,7 +8,7 @@ Hi 👋 My name is Tahmid Nasif
 
 Hey there! My name is Tahmid Nasif, and I'm a student who is enthusiastic about programming and personal growth. I've been programming for a year, and I enjoy the challenge of working on challenging projects that call for originality and ingenuity. I'm dedicated to working on open-source projects that have a positive impact because I think technology can be utilised to address some of the largest issues facing the world. You may find me working on projects and investigating fresh programming languages and frameworks on GitHub. I'm continuously seeking for methods to sharpen my abilities and absorb knowledge from others around me. I also firmly believe in teamwork and enjoy collaborating with others to create outstanding software. You can find me playing video games or playing sports when I'm not coding. I think having a balanced life is important, and I find that having hobbies makes me more imaginative and effective at work. Let's collaborate and create something fantastic!
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 * 🌍  I'm based in Perth, Western Australia
 * ✉️  You can contact me at [tahmidnasif.os@gmail.com or Discord: Java#7900]
